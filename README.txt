@@ -1,10 +1,10 @@
 
 
-username to login Drupal (tawfik)
-Password (123123123)
+username to login Drupal "tawfik"
+Password "123123123"
 
 
-Attached By SQL (db/drupal.sql)
+Attached By SQL "db/drupal.sql"
 
 ----------------------
 CONTENTS OF THIS FILE
