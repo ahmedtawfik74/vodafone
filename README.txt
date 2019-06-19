@@ -1,4 +1,12 @@
 
+
+username to login Drupal ( tawfik )
+Password (1231231233)
+
+
+Attached By SQL (db/drupal)
+
+----------------------
 CONTENTS OF THIS FILE
 ---------------------
 
