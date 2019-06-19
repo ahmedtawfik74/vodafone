@@ -1,10 +1,10 @@
 
 
-username to login Drupal ( tawfik )
-Password (1231231233)
+username to login Drupal (tawfik)
+Password (123123123)
 
 
-Attached By SQL (db/drupal)
+Attached By SQL (db/drupal.sql)
 
 ----------------------
 CONTENTS OF THIS FILE
