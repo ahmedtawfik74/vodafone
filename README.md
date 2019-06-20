@@ -1,7 +1,7 @@
 # vodafone
----
-username to Log in    "tawfik"
----
-password   "123123123"
+
+Username to Log In    "tawfik"
+
+Password   "123123123"
 ---
 Attached By  "db/drupal.sql"
